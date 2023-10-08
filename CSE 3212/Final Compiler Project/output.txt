@@ -1,0 +1,114 @@
+Header file has been imported.
+Header file has been imported.
+
+ Single Line comment resides here
+
+Float type variable
+The variable is trigoVar
+The angle inside sin() is 10.000
+
+The variable trigoVar has value 0.173649
+The angle inside of cos() is 10.000
+
+The variable trigoVar has value 0.984808
+The angle inside of tan() is 1.000
+
+The variable trigoVar has value 0.017455
+The angle inside log10() is 10.000
+
+The variable trigoVar has value 1.000000
+Integer type variable
+The variable is x
+The variable x has value 18
+The variable x has value 343
+ x has value 343
+Float type variable
+The variable is aa
+The variable is bb
+The variable aa has value 5.500000
+The variable bb has value 10.100000
+aa has value 5.500000
+bb has value 10.100000
+The number 37 is prime
+
+The number 20 is not prime
+
+Factorial of 5 is 120
+3 - th Power value of 2 is 8 
+Random value is 365 
+Integer type variable
+The variable is p
+The variable is q
+The variable p has value 100
+The variable q has value 200
+ Single Line comment resides here
+
+ Single Line comment resides here
+
+Maximum value is 200
+Minimum value is 100
+Integer type variable
+The variable is abc
+This function reads the variable abc
+
+The variable abc has value 9
+ abc has value 9
+ Single Line comment resides here
+
+ abc has value 9
+ELIF condition found
+ELIF condition false
+The variable abc has value 45
+ abc has value 45
+ELSE condition found
+IF condition found
+IF condition true
+Integer type variable
+The variable is z
+The variable z has value 10
+ z has value 10
+Forward for loop starting
+Value is 1
+Value is 2
+Value is 3
+Value is 4
+Forward for loop ended
+The variable z has value 20
+ z has value 20
+Reverse for loop starting
+Value is 5
+Value is 4
+Value is 3
+Value is 2
+Reverse for loop ended
+While loop found
+
+While Loop variable value is 7
+While Loop variable value is 6
+While Loop variable value is 5
+While Loop variable value is 4
+While Loop variable value is 3
+While Loop variable value is 2
+While Loop variable value is 1
+Integer type variable
+The variable is m
+The variable is n
+The variable is g
+The variable n has value 100
+The variable m has value 300
+The variable g has value 2
+ m has value 300
+ n has value 100
+Matched Case no is 2
+Matched Case no is 1
+ g has value 2
+Default executed
+
+Switch-case ladder starts here.
+ m has value 300
+Variable b1 is not declared!
+
+ELSE condition found
+IF condition found
+IF condition false
+Entire Program Executed Successfully

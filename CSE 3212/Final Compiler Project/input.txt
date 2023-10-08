@@ -1,0 +1,97 @@
+shagotom KUET.h
+shagotom cse2k18.h 
+
+shuru() {
+	## Here body of the program is written
+
+	vognangsho trigoVar;
+	trigoVar=er_sine(10);
+	trigoVar=er_cos(10);
+	trigoVar=er_tan(1);
+	trigoVar=er_gen_log10(10);
+
+	purno x;
+	x=18;
+	x=18 gun x jog 19;
+	dracarys(x);
+
+	vognangsho aa,bb;
+	aa=5.5;
+	bb=10.10;
+	dracarys(aa);
+	dracarys(bb);
+
+	moulik_ki_na(37);
+	moulik_ki_na(20);
+
+	khujo_fact(5);
+	ghaat(2,3);
+	jekunu_kichu(365,365);
+	purno p,q;
+	p= 1000 vag 10;
+	q= 100 gun 2;
+	## p = 100;
+	## q = 1000;
+	sorbocco(p,q);
+	sorbonimno(p,q);
+
+	purno abc;
+	daenerys(abc);
+	abc = 9;
+	
+	jodi ( abc choto_shoman 10 ){
+		dracarys(abc);
+	}
+	nahole_jodi ( abc somansoman 100 ){
+		## abc = abc jog 10;
+		dracarys(abc);
+	}
+	nahole{
+		abc = abc gun 5;
+		dracarys(abc);
+	}
+
+	purno z;
+	z=10;
+
+	ghuralam 1 theke 5 tulo 1
+	{
+		dracarys(z);
+	}
+
+	z=20;
+
+	ghuralam 5 theke 1 namau 1
+	{
+		dracarys(z);
+	}
+
+	jotokkhon(7);
+
+	purno m,n,g;
+	n = 100;
+	m = 300;
+	g=2;
+
+	dhori(g){
+		ghotona 1 {
+			dracarys(m);
+		}
+		ghotona 2 {
+			dracarys(n);
+		}
+		sadharon{
+			dracarys(g);
+		}
+	}
+
+	jodi ( m somansoman n )
+	{
+		dracarys(m);
+	}
+
+	nahole
+	{
+		dracarys(b1);
+	}
+}

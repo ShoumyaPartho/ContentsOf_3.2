@@ -1,0 +1,48 @@
+#shagotomchotostdiobinduhboro
+#janau PI 3.1415926
+
+faka main LPRP{
+	dracarys LP "First Print" RP;
+	
+	valar_morghulisLP"input.txt","stdin","r"RP;
+
+	purno pVar eq 5 , pVar2 eq pVar jog 10;
+	pVar2 eq pVar biog 2;
+	pVar2 eq pVar gun 2;
+	pVar2 eq pVar vag 2;
+	pVartulo;
+	pVarnamau;
+	pVar eq napVar;
+	daenerysLP" %d ",pVar2RP;
+	vognangsho fVar eq 5.26;
+
+	jodiLPpVar<pVar2RP
+		dracarysLP"First number smaller then Second number"RP;
+	nahole_jodiLPpVarebongpVar2RP
+		dracarysLP"First number identical to Second number"RP;
+	nahole_jodiLPpVarothobapVar2RP
+		dracarysLP"First number identical to Second number"RP;
+	nahole
+		dracarysLP"First number greater then Second number"RP;
+
+	ghuralamLPieqpVar;ichoto_shomanpVar2;ituloRP{
+		dracarysLP"%d",iRP;
+		jodiLPieqeq0RP
+			chalaw;
+	}
+
+	jotokkhonLPpVar2boro_shomanpVarRP{
+		dracarysLP"%d",pVar2RP;
+		pVar2namau;
+		jodiLPpVar2eqeq0RP
+			beriye_jao;
+		nahole_jodiLPpVar2choto0RP
+			chole_jao;
+	}
+	
+	vognangsho newVar eq er_sine(30);
+	newVar eq er_cos(60);
+	newVar eq er_tan(45);
+
+	valar_dohaerisLP"input.txt"RP;
+}
